@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_subscriber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textAllCaps="false"
+        android:text="@string/label_subscriber"/>
+
+    <Button
+        android:id="@+id/btn_subscriber_error"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textAllCaps="false"
+        android:text="@string/label_subscriber_error"/>
+
+    <Button
+        android:id="@+id/btn_subscribeOn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textAllCaps="false"
+        android:text="@string/label_subscriberOn"/>
+
+    <Button
+        android:id="@+id/btn_obServeOn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textAllCaps="false"
+        android:text="@string/label_obServeOn"/>
+
+    <Button
+        android:id="@+id/btn_obServeOnAndSubscribeOn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textAllCaps="false"
+        android:text="@string/label_obServeOnAndSubscribeOn"/>
+
+    <Button
+        android:id="@+id/btn_internet_ip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textAllCaps="false"
+        android:text="@string/label_timer_finish"/>
+</LinearLayout>

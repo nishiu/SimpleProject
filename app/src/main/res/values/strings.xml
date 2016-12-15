@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">多功能示例</string>
+    <string name="label_rxjava_simple">RxJavaSimple</string>
+    <string name="label_timer_finish">timer操作符退出</string>
+    <string name="label_subscriber">订阅示例</string>
+    <string name="label_subscriber_error">订阅中出现错误</string>
+    <string name="label_subscriberOn">subscribeOn的作用域</string>
+    <string name="label_obServeOn">obServeOn的作用域</string>
+    <string name="label_obServeOnAndSubscribeOn">obServeOn和subscribeOn混合使用</string>
+</resources>
